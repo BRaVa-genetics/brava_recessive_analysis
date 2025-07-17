@@ -80,3 +80,6 @@ Heterogeneity testing
 * Tools: bcftools (v1.18+); plink2; bgenix; SAIGE; [call_chets](https://github.com/BRaVa-genetics/biallelic)
 * R packages: dplyr, data.table, bravastring
 * Python packages: pandas, numpy
+
+### Notes
+* Check out this [Google Doc](https://docs.google.com/document/d/1fdoGeZGyE7tsXurEyr4LcCJK6J_RwlR1q-Ib_XWdBYE/edit?tab=t.0) with more details on the analysis.
